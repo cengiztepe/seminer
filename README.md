@@ -1,1 +1,1 @@
-#Gerekli açýklamalar buraya yazýlacak
+#Gerekli aciklamalar buraya yazilacak
